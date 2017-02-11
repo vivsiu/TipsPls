@@ -2,7 +2,7 @@
 
 TipsPls is a tip calculator application for iOS.
 
-Submitted by: Yuen Ting Vivien Siu
+Submitted by: Vivien Siu
 
 Time spent: 1.5 hour spent in total
 
@@ -36,7 +36,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2017 Vivien Siu
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
