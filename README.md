@@ -26,7 +26,7 @@ Here's a walkthrough of implemented user stories:
 
 ### Version 1.1:
 
-<a href="TipsPls_Demo_2_UIUpdate.gif" target="_blank"><img src='TTipsPls_Demo_2_UIUpdate.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
+<a href="TipsPls_Demo_2_UIUpdate.gif" target="_blank"><img src='TipsPls_Demo_2_UIUpdate.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
 
 ### Version 1.0:
 
