@@ -26,6 +26,7 @@ Here's a walkthrough of implemented user stories:
 
 ### Version 1.2:
 
+Change log:
 - Added fade in animation on load
 
 <a href="/Demo%20GIFs/TipsPls_Demo_v1.2_AnimationOnLoad.gif" target="_blank"><img src='/Demo%20GIFs/TipsPls_Demo_v1.2_AnimationOnLoad.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
@@ -33,12 +34,14 @@ Here's a walkthrough of implemented user stories:
 
 ### Version 1.1:
 
+Change log:
 - Updated look & feel
 
 <a href="/Demo%20GIFs/TipsPls_Demo_v1.1_UIUpdate.gif" target="_blank"><img src='/Demo%20GIFs/TipsPls_Demo_v1.1_UIUpdate.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
 
 ### Version 1.0:
 
+Change log:
 - Basic, functional version of the tip calculator
 
 <a href="/Demo%20GIFs/TipsPls_Demo_v1.0_Basic.gif" target="_blank"><img src='/Demo%20GIFs/TipsPls_Demo_v1.0_Basic.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
