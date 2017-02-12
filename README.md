@@ -18,7 +18,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [X] Additional feature 1: Updated look & feel of the navigation controller, view, textbox, and cursor.
+- [X] Additional feature 1: Updated look & feel of the navigation controller, view, segmented controller, textbox, and cursor.
 - [X] Additional feature 2: Added custom app icon.
 
 ## Video Walkthrough 
@@ -44,7 +44,7 @@ Here's a walkthrough of implemented user stories:
 
 ### Version 1.1:
 - Optional feature 1/3: Updated look & feel with custom fonts.
-- Additional feature 1: Updated look & feel of the navigation controller, view, textbox, and cursor.
+- Additional feature 1: Updated look & feel of the navigation controller, view, segmented controller, textbox, and cursor.
 
 <a href="/Demo%20GIFs/TipsPls_Demo_v1.1_UIUpdate.gif" target="_blank"><img src='/Demo%20GIFs/TipsPls_Demo_v1.1_UIUpdate.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
 
