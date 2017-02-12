@@ -14,7 +14,7 @@ The following **required** functionality is complete:
 The following **optional** features are implemented:
 * [X] Custom font
 * [X] UI animations
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [X] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
@@ -24,25 +24,27 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+### Version 1.3:
+- Change log: Made bill field as the first responder such that keyboard is shown and user can type right away when launching the app.
+
+<a href="/Demo%20GIFs/TipsPls_Demo_v1.3_FirstResponder.gif" target="_blank"><img src='/Demo%20GIFs/TipsPls_Demo_v1.3_FirstResponder.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
+
 ### Version 1.2:
 
-Change log:
-- Added fade in animation on load
+- Change log: Added fade in animation on load.
 
 <a href="/Demo%20GIFs/TipsPls_Demo_v1.2_AnimationOnLoad.gif" target="_blank"><img src='/Demo%20GIFs/TipsPls_Demo_v1.2_AnimationOnLoad.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
 
 
 ### Version 1.1:
 
-Change log:
-- Updated look & feel
+- Change log: Updated look & feel.
 
 <a href="/Demo%20GIFs/TipsPls_Demo_v1.1_UIUpdate.gif" target="_blank"><img src='/Demo%20GIFs/TipsPls_Demo_v1.1_UIUpdate.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
 
 ### Version 1.0:
 
-Change log:
-- Basic, functional version of the tip calculator
+- Change log: Basic, functional version of the tip calculator.
 
 <a href="/Demo%20GIFs/TipsPls_Demo_v1.0_Basic.gif" target="_blank"><img src='/Demo%20GIFs/TipsPls_Demo_v1.0_Basic.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
 

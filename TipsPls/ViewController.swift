@@ -26,6 +26,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
+        // Make the bill field become first responder
+        billField.becomeFirstResponder()
+        
         // On load, animate in all components except the bill label and field on the app
         self.tipControl.alpha = 0
         self.tipLabel.alpha = 0
