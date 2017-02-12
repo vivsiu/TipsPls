@@ -18,33 +18,38 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [X] Changed look & feel of navigation controller to match the rest of the view
+- [X] Additional feature 1: Updated look & feel of the navigation controller, view, textbox, and cursor.
+- [X] Additional feature 2: Added custom app icon.
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-### Version 1.3:
-- Change log: Made bill field as the first responder such that keyboard is shown and user can type right away when launching the app.
+### Version 2.0:
+- Additional feature 2: Added custom app icon.
+
+<a href="/Demo%20GIFs/TipsPls_Demo_v2.0_AppIcon.gif" target="_blank"><img src='/Demo%20GIFs/TipsPls_Demo_v2.0_AppIcon.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
+
+
+### Version 1.3 (Required + Optional features complete):
+- Optional feature 3/3 complete: Made bill field as the first responder such that keyboard is shown and user can type right away when launching the app.
 
 <a href="/Demo%20GIFs/TipsPls_Demo_v1.3_FirstResponder.gif" target="_blank"><img src='/Demo%20GIFs/TipsPls_Demo_v1.3_FirstResponder.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
 
 ### Version 1.2:
-
-- Change log: Added fade in animation on load.
+- Optional feature 2/3: Added fade in animation on load.
 
 <a href="/Demo%20GIFs/TipsPls_Demo_v1.2_AnimationOnLoad.gif" target="_blank"><img src='/Demo%20GIFs/TipsPls_Demo_v1.2_AnimationOnLoad.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
 
 
 ### Version 1.1:
-
-- Change log: Updated look & feel.
+- Optional feature 1/3: Updated look & feel with custom fonts.
+- Additional feature 1: Updated look & feel of the navigation controller, view, textbox, and cursor.
 
 <a href="/Demo%20GIFs/TipsPls_Demo_v1.1_UIUpdate.gif" target="_blank"><img src='/Demo%20GIFs/TipsPls_Demo_v1.1_UIUpdate.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
 
-### Version 1.0:
-
-- Change log: Basic, functional version of the tip calculator.
+### Version 1.0 (Required features complete):
+- Required feature 1/1 complete: Basic, functional version of the tip calculator.
 
 <a href="/Demo%20GIFs/TipsPls_Demo_v1.0_Basic.gif" target="_blank"><img src='/Demo%20GIFs/TipsPls_Demo_v1.0_Basic.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
 
