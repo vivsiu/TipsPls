@@ -10,14 +10,38 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    @IBOutlet weak var billField: UITextField!
-    @IBOutlet weak var tipLabel: UILabel!
-    @IBOutlet weak var totalLabel: UILabel!
     @IBOutlet weak var tipControl: UISegmentedControl!
+    
+    @IBOutlet weak var billField: UITextField!
+    
+    @IBOutlet weak var tipLabel: UILabel!
+    @IBOutlet weak var tipAmountLabel: UILabel!
+    
+    @IBOutlet weak var separatorView: UIView!
+    
+    @IBOutlet weak var totalLabel: UILabel!
+    @IBOutlet weak var totalAmountLabel: UILabel!
     
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
+        // On load, animate in all components except the bill label and field on the app
+        self.tipControl.alpha = 0
+        self.tipLabel.alpha = 0
+        self.tipAmountLabel.alpha = 0
+        self.separatorView.alpha = 0
+        self.totalLabel.alpha = 0
+        self.totalAmountLabel.alpha = 0
+        UIView.animate(withDuration: 2, animations:{
+            self.tipControl.alpha = 1
+            self.tipLabel.alpha = 1
+            self.tipAmountLabel.alpha = 1
+            self.separatorView.alpha = 1
+            self.totalLabel.alpha = 1
+            self.totalAmountLabel.alpha = 1
+        })
+        
     }
 
     override func didReceiveMemoryWarning() {
@@ -32,7 +56,6 @@ class ViewController: UIViewController {
     }
     
     
-    
     @IBAction func calculateTip(_ sender: AnyObject) {
         
         // Tip percentages from the segmented control
@@ -44,8 +67,10 @@ class ViewController: UIViewController {
         let total = bill + tip
         
         // Update the tip and total amount
-        tipLabel.text = String(format: "%.2f", tip)
-        totalLabel.text = String(format: "%.2f", total)
+        tipAmountLabel.text = String(format: "%.2f", tip)
+        totalAmountLabel.text = String(format: "%.2f", total)
     }
+
 }
+
 

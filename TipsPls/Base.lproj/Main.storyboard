@@ -91,9 +91,12 @@
                     <navigationItem key="navigationItem" title="TipPls Calculator" id="n45-yh-Ird"/>
                     <connections>
                         <outlet property="billField" destination="thS-XV-YMA" id="wLg-zw-BnI"/>
+                        <outlet property="separatorView" destination="Pmi-hQ-lCG" id="ku8-p1-cg9"/>
+                        <outlet property="tipAmountLabel" destination="shR-B4-ubx" id="MxX-wK-Pcg"/>
                         <outlet property="tipControl" destination="Yf5-N7-A2z" id="vKM-fV-AGV"/>
-                        <outlet property="tipLabel" destination="shR-B4-ubx" id="kxn-Uk-PX3"/>
-                        <outlet property="totalLabel" destination="skq-CD-f3M" id="VnM-b4-yoW"/>
+                        <outlet property="tipLabel" destination="Dbf-DC-RsA" id="2XO-AG-uHG"/>
+                        <outlet property="totalAmountLabel" destination="skq-CD-f3M" id="2Sv-gT-Rq1"/>
+                        <outlet property="totalLabel" destination="YkD-1u-3TL" id="5OF-4m-RLJ"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
