@@ -4,7 +4,7 @@ TipsPls is a tip calculator application for iOS.
 
 Submitted by: Vivien Siu
 
-Time spent: 1.5 hour spent in total
+Time spent: 2 hours spent in total
 
 ## User Stories
 
@@ -18,11 +18,17 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [X] Changed look & feel of navigation controller to match the rest of the view
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
+
+### Version 1.1:
+
+<a href="TipsPls_Demo_2_UIUpdate.gif" target="_blank"><img src='TTipsPls_Demo_2_UIUpdate.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
+
+### Version 1.0:
 
 <a href="TipsPls_Demo_Basic.gif" target="_blank"><img src='TipsPls_Demo_Basic.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
 
