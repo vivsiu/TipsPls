@@ -4,7 +4,7 @@ TipsPls is a tip calculator application for iOS.
 
 Submitted by: Vivien Siu
 
-Time spent: 3.5 hours spent in total
+Time spent: 8 hours spent in total
 
 ## User Stories
 
@@ -20,10 +20,16 @@ The following **additional** features are implemented:
 
 - [X] Additional feature 1: Updated look & feel of the navigation controller, view, segmented controller, textbox, and cursor.
 - [X] Additional feature 2: Added custom app icon.
+- [X] Additional feature 3: User can go into Settings and update the default three tip percentages.  It will be reflected and recalculated when returned back to the main screen.
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
+
+### Version 2.1:
+- Additional feature 3: User can go into Settings and update the default three tip percentages.  It will be reflected and recalculated when returned back to the main screen.
+
+<a href="/Demo%20GIFs/TipsPls_Demo_v2.1_Settings.gif" target="_blank"><img src='/Demo%20GIFs/TipsPls_Demo_v2.1_Settings.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
 
 ### Version 2.0:
 - Additional feature 2: Added custom app icon.
@@ -64,6 +70,8 @@ Describe any challenges encountered while building the app.
 2) Ran into an error when attempting to change a variable name.  It was because I didn't update the Outlet name properly so after some debugging I figured I had to rehook them up properly.
 
 3) Spent more time than expected to figure out where to properly place the animation blocks (first time doing this) but was able to figure it out by adding some test views and animating them with longer duration.  It was later removed once I got the hang of it.
+
+4) When implementing the additional feature to update tip percentages in Settings, took me a while to learn and figure out how to pass the values from the Settings View to the Main View (learned about segue and delegates in navigation controllers).  I also had to clean up some code and add functions to make converting between String and Double easier.  Was finally able to achieve what I wanted by tackling these one piece at a time.
 
 ## License
 
