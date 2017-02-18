@@ -4,7 +4,7 @@ TipsPls is a tip calculator application for iOS.
 
 Submitted by: Vivien Siu
 
-Time spent: 8 hours spent in total
+Time spent: 9.5 hours spent in total
 
 ## User Stories
 
@@ -21,10 +21,17 @@ The following **additional** features are implemented:
 - [X] Additional feature 1: Updated look & feel of the navigation controller, view, segmented controller, textbox, and cursor.
 - [X] Additional feature 2: Added custom app icon.
 - [X] Additional feature 3: User can go into Settings and update the default three tip percentages.  It will be reflected and recalculated when returned back to the main screen.
+- [X] Additional feature 4: Added Split feature where the calculator shows how much the total is if split between 2, 3, or 4 people.
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
+
+### Version 2.2:
+- Additional feature 4: Added Split feature where the calculator shows how much the total is if split between 2, 3, or 4 people.
+- Updated new look & feel to accomodate the Split view
+
+<a href="/Demo%20GIFs/TipsPls_Demo_v2.2_Split.gif" target="_blank"><img src='/Demo%20GIFs/TipsPls_Demo_v2.2_Split.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
 
 ### Version 2.1:
 - Additional feature 3: User can go into Settings and update the default three tip percentages.  It will be reflected and recalculated when returned back to the main screen.
